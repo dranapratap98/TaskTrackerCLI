@@ -1,1 +1,10 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "status": "todo", // Possible values: "todo", "in-progress", "done"
+    "createdAt": "2025-01-01T10:00:00",
+    "updatedAt": "2025-01-01T10:00:00"
+  }
+]
 
